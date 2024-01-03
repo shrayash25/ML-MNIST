@@ -1,7 +1,9 @@
 ## MNIST
-#Description
+Description
+
 Welcome to the Number Classification with Machine Learning repository! This project employs Convolutional Neural Networks (CNN) to achieve an outstanding accuracy of 98.4% in classifying various types of numbers. The code is written in Python and leverages popular libraries including Matplotlib, NumPy, Keras, and Scikit-learn.
-#Key Features
+Key Features
+
 Robust CNN Model: The heart of the project is a robust Convolutional Neural Network implemented with Keras, ensuring high accuracy in number classification.
 
 Efficient Data Preprocessing: Utilize NumPy for efficient data preprocessing, ensuring clean and prepared numerical datasets for training.
